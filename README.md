@@ -45,11 +45,6 @@ Website for Event planner company, with the rich experience of event planning ex
 - Photoshop Designs
 - Logo Design
 
-## Screenshots
-
-- **Home Page Image** 
-<img src="https://github.com/pras75299/EventpalnnerWeb/blob/master/screenshots/index.jpg" width="50%" height="50%"/>
-
 
 ### Dependencies
 
